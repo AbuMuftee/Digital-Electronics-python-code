@@ -1,7 +1,7 @@
 # Digital-Electronics-python-code
 This is the source code of the book Fundamentals of Digital Electronics with Python
 (A Comprehensive Guide)
-Fisrt edition
+First edition
 By
 Abdullahi Salihu Audu,PhD
 Yunana Kefas
