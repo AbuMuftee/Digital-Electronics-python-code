@@ -1,0 +1,6 @@
+hexadecimal_1 = input('enter the first hexadecimal number:')
+hexadecimal_2 = input('enter the second hexadecimal number:')
+result = int(hexadecimal_1, 16) // int(hexadecimal_2, 16)
+reminder = int(hexadecimal_1, 16) % int(hexadecimal_2, 16)
+f_result = hex(result)
+print("{r} R {m}".format(r=f_result, m=reminder))

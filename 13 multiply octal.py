@@ -1,0 +1,5 @@
+octal_1 = input('enter the first octal number:')
+octal_2 = input('enter the second octal number:')
+result = int(octal_1, 8) * int(octal_2, 8)
+result = oct(result)
+print(result)
