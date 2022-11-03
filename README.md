@@ -3,10 +3,10 @@ This is the source code of the book Fundamentals of Digital Electronics with Pyt
 (A Comprehensive Guide)
 First edition
 By
-Abdullahi Salihu Audu,PhD
-Yunana Kefas
-Ibrahim Yusuf Alhassan
-Ahmed Umar Mustafa
+Abdullahi Salihu Audu,PhD,
+Yunana Kefas,
+Ibrahim Yusuf Alhassan,
+Ahmed Umar Mustafa, and
 Binyamin Adeniye Ajayi, PhD 
 
 Each of the python program correspond by title to the exact topic as in the book.
